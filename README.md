@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kritsana you can call me Bank.</h1>
 <h3 align="center">A passionate full stack developer from Thailand.</h3>
 
+<a href="https://app.daily.dev/kritsanapr"><img src="https://api.daily.dev/devcards/301c3ed48f3a4129abc9c96c715947c1.png?r=dgi" width="400" alt="Kritsana's Dev Card"/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritsanapr&label=Profile%20views&color=0e75b6&style=flat" alt="kritsanapr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kritsanapr" alt="kritsanapr" /></a> </p>
