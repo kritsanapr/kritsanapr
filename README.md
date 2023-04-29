@@ -1,24 +1,21 @@
 <h1 align="center">Hi 👋, I'm Kritsana you can call me Bank.</h1>
 <h3 align="center">A passionate full stack developer from Thailand.</h3>
 
-<div class="container" style="display: flex; flex-dirextion: row">
+<div class="container" style="display: flex; flex-direction: row">
 <div class="dev__card" style="margin-right: 10px">
 <!-- Dev Card with github action update-->
-<p align="right">
+<p>
   <a href="https://app.daily.dev/kritsanapr"><img src="https://api.daily.dev/devcards/301c3ed48f3a4129abc9c96c715947c1.png?r=dgi" width="400" alt="Kritsana's Dev Card"/></a>
 </p>
 </div>
 
 <div class="content__detail" style="margin-left: 10px">
-<p>
 
 🌱 I’m currently learning **DevOps, Cyber Security**
 
 🤝 I’m looking for help with **Exploring New Technologies.**
 
 💬 Ask me about any tech-related stuff. **react, vue, angular, nodejs, nestjs**
-
-</p>
 
 <!-- Profile Views -->
 <p align="left">
@@ -70,4 +67,5 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kritsanapr&" alt="kritsanapr" />
-----
+
+---
