@@ -2,14 +2,14 @@
 <h3 align="center">A passionate full stack developer from Thailand.</h3>
 
 
-<div class="dev__card" style="margin-right: 10px;">
+<div style="margin-right: 10px;">
 <!-- Dev Card with github action update-->
 <p align="center">
   <a href="https://app.daily.dev/kritsanapr"><img src="https://api.daily.dev/devcards/301c3ed48f3a4129abc9c96c715947c1.png?r=dgi" width="400" alt="Kritsana's Dev Card"/></a>
 </p>
 </div>
 
-<div class="container" style="display: flex; flex-direction: row;">
+<div class="container" style="display: flex; flex-direction: row">
 <div class="content__detail" style="margin-left: 10px">
 
 🌱 I’m currently learning **DevOps, Cyber Security**
@@ -61,12 +61,11 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<div class="container" style="display: flex; flex-direction: row; justify-content: space-between: align-items: center: ">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kritsanapr&show_icons=true&locale=en" alt="kritsanapr" />
+
+
+### :fire: My Stats : 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kritsanapr&" alt="kritsanapr" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kritsanapr&show_icons=true&theme=dark&locale=en&layout=compact" alt="kritsanapr" />
 
-</div>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kritsanapr&" alt="kritsanapr" />
-
----
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kritsanapr&show_icons=true&locale=en" alt="kritsanapr" /> -->
