@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kritsana you can call me Bank.</h1>
 <h3 align="center">A passionate full stack developer from Thailand.</h3>
 
-<div class="container" style="display: flex; flex-direction: row">
-<div class="dev__card" style="margin-right: 10px">
+
+<div class="dev__card" style="margin-right: 10px;">
 <!-- Dev Card with github action update-->
-<p>
+<p align="center">
   <a href="https://app.daily.dev/kritsanapr"><img src="https://api.daily.dev/devcards/301c3ed48f3a4129abc9c96c715947c1.png?r=dgi" width="400" alt="Kritsana's Dev Card"/></a>
 </p>
 </div>
 
+<div class="container" style="display: flex; flex-direction: row;">
 <div class="content__detail" style="margin-left: 10px">
 
 🌱 I’m currently learning **DevOps, Cyber Security**
@@ -18,7 +19,7 @@
 💬 Ask me about any tech-related stuff. **react, vue, angular, nodejs, nestjs**
 
 <!-- Profile Views -->
-<p align="left">
+<p align="">
     <img src="https://komarev.com/ghpvc/?username=kritsanapr&label=Profile%20views&color=0e75b6&style=flat" alt="kritsanapr" />
 </p>
 
