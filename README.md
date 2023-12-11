@@ -30,6 +30,12 @@
     <img src="https://komarev.com/ghpvc/?username=kritsanapr&label=Profile%20views&color=0e75b6&style=flat" alt="kritsanapr" />
 </p>
 
+###
+
+<img src="https://raw.githubusercontent.com/kritsanapr/kritsanapr/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h2 align="left">Programming Languages</h2>
 
 ###
@@ -54,11 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/kritsanapr/kritsanapr/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h2 align="left">Front End Tools</h2>
 
