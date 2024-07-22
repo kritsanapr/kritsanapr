@@ -35,7 +35,7 @@
 <img src="https://raw.githubusercontent.com/kritsanapr/kritsanapr/output/snake.svg" alt="Snake animation" />
 
 ###
-
+<!-- 
 <h2 align="left">Programming Languages</h2>
 
 ###
@@ -184,9 +184,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-###
+### -->
 
-
+<!-- 
 
 
 <h2 align="left">Repositories</h2>
@@ -274,7 +274,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
-</div>
+</div> -->
 
 ###
 
