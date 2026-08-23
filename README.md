@@ -1,179 +1,143 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6A0DAD&height=200&section=header&text=Hi%20👋,%20I'm%20Kritsana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=You%20can%20call%20me%20Bank&descAlignY=55&descAlign=50" alt="Header banner" />
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+from+Thailand;Exploring+DevOps+%26+Cyber+Security;React+%7C+Vue+%7C+Angular+%7C+Node.js+%7C+NestJS" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Location-Thailand-0E75B6?style=for-the-badge&labelColor=282a36" alt="Location" />
-  <img src="https://img.shields.io/badge/🤝_Open_to-Collaboration-6A0DAD?style=for-the-badge&labelColor=282a36" alt="Open to collaborate" />
-  <img src="https://img.shields.io/badge/📫_Email-kritsana.pr.41%40gmail.com-FF79C6?style=for-the-badge&labelColor=282a36" alt="Email" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kritsanapr&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="kritsanapr" />
-</p>
-
-<br/>
-
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://app.daily.dev/kritsanapr"><img src="https://api.daily.dev/devcards/301c3ed48f3a4129abc9c96c715947c1.png?r=dgi" width="400" alt="Kritsana's Dev Card"/></a>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api?username=kritsanapr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph" width="400" />
-    </td>
+    <td valign="top" colspan="3">
+
+# Hi, I'm Kritsana
+
+**Bank** · Full-Stack Developer · Thailand
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=false&vCenter=true&width=420&lines=Building+things+that+ship;Exploring+DevOps+%26+Cyber+Security;React+%7C+Vue+%7C+Angular+%7C+Node.js+%7C+NestJS" alt="Typing headline" />
+
+<p>
+  <img src="https://img.shields.io/badge/Location-Thailand-0E75B6?style=flat-square&labelColor=161b22" alt="Location" />
+  <img src="https://img.shields.io/badge/Open_to-Collaboration-0E75B6?style=flat-square&labelColor=161b22" alt="Open to collaborate" />
+  <img src="https://img.shields.io/badge/Email-kritsana.pr.41%40gmail.com-0E75B6?style=flat-square&labelColor=161b22" alt="Email" />
+  <img src="https://komarev.com/ghpvc/?username=kritsanapr&label=Profile+views&color=0e75b6&style=flat-square&labelColor=161b22" alt="Profile views" />
+</p>
+
+</td>
+    <td valign="top" rowspan="2" align="center" width="38%">
+
+<a href="https://app.daily.dev/kritsanapr"><img src="https://api.daily.dev/devcards/301c3ed48f3a4129abc9c96c715947c1.png?r=dgi" width="260" alt="Kritsana's Dev Card"/></a>
+
+</td>
+  </tr>
+  <tr>
+    <td valign="top" width="20%">
+
+**Now**
+<br/>
+Learning **DevOps** and **Cyber Security**
+
+</td>
+    <td valign="top" width="21%">
+
+**Open to**
+<br/>
+Collaboration and exploring new technologies
+
+</td>
+    <td valign="top" width="21%">
+
+**Ask me about**
+<br/>
+React, Vue, Angular, Node.js, NestJS — or anything tech
+
+</td>
   </tr>
 </table>
 
+---
+
+## Stack
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+**Languages**
 <br/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,php" alt="JavaScript, TypeScript, Python, PHP" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E75B6,100:6A0DAD&height=60&section=header&text=About%20Me&fontSize=24&fontColor=ffffff&fontAlignY=60" alt="About me" width="100%" />
-</div>
-
-<p align="left">
-  🌱&nbsp; I'm currently learning <b>DevOps</b> and <b>Cyber Security</b><br/><br/>
-  🤝&nbsp; I'm looking for help with exploring new technologies<br/><br/>
-  💬&nbsp; Ask me about React, Vue, Angular, Node.js, NestJS — or anything tech-related
-</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kritsanapr/kritsanapr/output/snake.svg" alt="Snake animation" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E75B6,100:6A0DAD&height=60&section=header&text=Languages&fontSize=24&fontColor=ffffff&fontAlignY=60" alt="Languages" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo" />
-</div>
-
+**Frontend**
 <br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,tailwind,css&perline=4" alt="React, Next.js, Vue, Nuxt, Angular, Tailwind, CSS" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E75B6,100:6A0DAD&height=60&section=header&text=Frontend%20Tools&fontSize=24&fontColor=ffffff&fontAlignY=60" alt="Frontend Tools" width="100%" />
-</div>
+</td>
+    <td valign="top" width="50%">
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" alt="vuejs logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="45" alt="nuxtjs logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" alt="angularjs logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" alt="tailwindcss logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" />
-</div>
-
+**Backend**
 <br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel" alt="Node.js, NestJS, Express, Laravel" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E75B6,100:6A0DAD&height=60&section=header&text=Backend%20Tools&fontSize=24&fontColor=ffffff&fontAlignY=60" alt="Backend Tools" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45" alt="nodejs logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="45" alt="nestjs logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="express logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="45" alt="laravel logo" />
-</div>
-
+**Databases**
 <br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" alt="MySQL, PostgreSQL, MongoDB, Redis, SQLite" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E75B6,100:6A0DAD&height=60&section=header&text=Databases&fontSize=24&fontColor=ffffff&fontAlignY=60" alt="Databases" width="100%" />
-</div>
+</td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" alt="redis logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45" alt="sqlite logo" />
-</div>
-
+**DevOps, Cloud & Other**
 <br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,graphql,grafana,git,github&perline=8" alt="Docker, Kubernetes, AWS, GCP, GraphQL, Grafana, Git, GitHub" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E75B6,100:6A0DAD&height=60&section=header&text=DevOps,%20Cloud%20%26%20Other&fontSize=24&fontColor=ffffff&fontAlignY=60" alt="DevOps, Cloud & Other" width="100%" />
-</div>
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45" alt="kubernetes logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="45" alt="amazonwebservices logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45" alt="googlecloud logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="45" alt="graphql logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="45" alt="grafana logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo" />
-</div>
+## Activity
 
-<br/>
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E75B6,100:6A0DAD&height=60&section=header&text=GitHub%20Stats&fontSize=24&fontColor=ffffff&fontAlignY=60" alt="GitHub Stats" width="100%" />
-</div>
+<img src="https://github-readme-stats.shion.dev/api?username=kritsanapr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" alt="GitHub stats" />
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kritsanapr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=kritsanapr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" alt="streak graph" />
-</div>
+</td>
+    <td valign="top" width="50%">
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kritsanapr&theme=dracula&no-frame=true&row=1&column=7" alt="GitHub trophies" />
-</div>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kritsanapr&layout=compact&langs_count=5&hide_border=true&theme=dark" alt="Top languages" />
 
-<br/>
+</td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E75B6,100:6A0DAD&height=60&section=header&text=Connect%20With%20Me&fontSize=24&fontColor=ffffff&fontAlignY=60" alt="Connect with me" width="100%" />
-</div>
+<img src="https://raw.githubusercontent.com/kritsanapr/kritsanapr/output/snake.svg" alt="Contribution snake" width="100%" />
 
 <p align="center">
-<a href="https://codepen.io/kritsanapr" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
-<a href="https://dev.to/kritsanapr" target="_blank"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to" /></a>
-<a href="https://linkedin.com/in/kritsana-prasit" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://fb.com/kritsana.prasit" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://instagram.com/kritsana_pr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://medium.com/@kritsana.pr.60" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <img src="https://streak-stats.demolab.com?user=kritsanapr&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  📫 How to reach me: <b>kritsana.pr.41@gmail.com</b><br/>
-  <sub>This is my new GitHub — the old one is <a href="https://github.com/kritsanapr60">kritsanapr60</a></sub>
+  <img src="https://github-trophies.devomb.com/?username=kritsanapr&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:0E75B6&height=100&section=footer" alt="Footer banner" />
-</div>
+---
+
+## Connect
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+**Write & build**
+<br/>
+<a href="https://dev.to/kritsanapr"><img src="https://img.shields.io/badge/DEV.to-161b22?style=flat-square&logo=devdotto&logoColor=white" alt="DEV.to" /></a>
+<a href="https://medium.com/@kritsana.pr.60"><img src="https://img.shields.io/badge/Medium-161b22?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://codepen.io/kritsanapr"><img src="https://img.shields.io/badge/CodePen-161b22?style=flat-square&logo=codepen&logoColor=white" alt="CodePen" /></a>
+
+</td>
+    <td valign="top" width="50%">
+
+**Social**
+<br/>
+<a href="https://linkedin.com/in/kritsana-prasit"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://fb.com/kritsana.prasit"><img src="https://img.shields.io/badge/Facebook-161b22?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://instagram.com/kritsana_pr"><img src="https://img.shields.io/badge/Instagram-161b22?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+</td>
+  </tr>
+</table>
+
+📫 **kritsana.pr.41@gmail.com**
+<br/>
+<sub>This is my new GitHub — the old one is <a href="https://github.com/kritsanapr60">kritsanapr60</a></sub>
